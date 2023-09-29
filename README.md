@@ -1,4 +1,4 @@
-# Machine_learning_assignments
+# Machine learning assignments
 
 This repository contains my code and associated output reports for machine learning assignments I completed in graduate school. All code is in the `code/` folder and all output reports are in the `docs/` folder. 
 
